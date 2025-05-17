@@ -65,3 +65,7 @@ The UI includes clean, modern styling with message bubbles and color-coded usern
 
 ##This project serves as a foundational example of how real-time web applications work and can be extended to include advanced features like private messaging, chat rooms, message persistence (with a database), and user authentication.
 
+
+##OUTPUT
+![Image](https://github.com/user-attachments/assets/aebd8d46-fef1-4c3f-9f8d-42782df5dc03)
+ ![Image](https://github.com/user-attachments/assets/60371611-358a-45e7-bdfc-de1981a22a4f)
