@@ -11,7 +11,7 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH 
 
-##This project is a real-time chat application built using Node.js, Express, and Socket.IO. The goal of the application is to enable users to send and receive messages instantly through a web-based interface. The chat system allows multiple users to communicate in real time, simulating the core functionality of modern messaging platforms like WhatsApp, Discord, or Slack.
+**This project is a real-time chat application built using Node.js, Express, and Socket.IO. The goal of the application is to enable users to send and receive messages instantly through a web-based interface. The chat system allows multiple users to communicate in real time, simulating the core functionality of modern messaging platforms like WhatsApp, Discord, or Slack.
 
 ##The backend server is powered by Express.js, which serves the frontend and manages WebSocket connections using Socket.IO. When a user sends a message, it is instantly broadcast to all connected clients without requiring a page refresh. This is made possible through the use of WebSockets, which provide a persistent two-way communication channel between the client and server.
 
